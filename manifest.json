@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+
+
+  "name": "SimpTab",
+  "short_name": "SimpTab",
+  "version": "1.0",
+  "description": "A Simple New Tab Page with Shortcuts",
+  "author": "TZ Shuhag",
+
+  "icons": {
+    "16": "icon/icon16.png",
+    "32": "icon/icon32.png",
+    "48": "icon/icon48.png",
+    "128": "icon/icon128.png"
+  },
+
+  "chrome_url_overrides": {
+    "newtab": "newtab/index.html"
+  },
+  "permissions": [
+    "bookmarks",
+    "favicon"
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [ "newtab/*", "_favicon/*" ],
+      "matches": [ "<all_urls>" ]
+    }
+  ]
+}
