@@ -1,6 +1,6 @@
 SimpTab is a minimalist and lightweight Chrome extension that replaces your default New Tab page with a clean, distraction-free interface. It's perfect for users who prefer a simple browsing experience without clutter or unnecessary features.
 
-![Logo](https://raw.githubusercontent.com/tz-shuhag/tz-shuhag.github.io/refs/heads/main/assets/images/SimpTab.png)
+![Logo](https://raw.githubusercontent.com/tz-shuhag/tz-shuhag.github.io/refs/heads/main/assets/images/tab.webp)
 
 ## 🪄 Features
 - 🧘‍♂️ Minimal new tab design
