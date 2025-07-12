@@ -50,13 +50,13 @@ body {
 }
 
 .bookmark__img>img {
-  filter: grayscale();
+  filter: none;
   width: 32px;
   height: auto;
 }
 
 .bookmark:hover img {
-  filter: none;
+  filter: grayscale();
 }
 
 .bookmark__label {
